@@ -14,4 +14,8 @@ A personal and other external collection of SwiftUI Studies, Experiments, and Ex
 8. [SwiftUI Studies Set 2 - Hacking with Swift](https://github.com/viennarzc/100DaysOfSwiftUI)
 
 
+## Hacking With WatchOS - Code Along Projects
+1. [Note Dictate](https://github.com/viennarzc/HackingWIthWatchOS-NoteDictate)
+
+
 ## Other Sources
