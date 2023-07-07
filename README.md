@@ -12,6 +12,7 @@ A personal and other external collection of SwiftUI Studies, Experiments, and Ex
 6. [Navigation with SwiftUI example 1](https://github.com/viennarzc/Navigation-with-SwiftUI)
 7. [Swift Charts and Shop list](https://github.com/viennarzc/swiftcharts-shopper)
 8. [SwiftUI Studies Set 2 - Hacking with Swift](https://github.com/viennarzc/100DaysOfSwiftUI)
+9. [Personal Collection Studies of SwiftUI Projects](https://github.com/viennarzc/SwiftUI-Studies-Projects)
 
 
 ## Hacking With WatchOS - Code Along Projects
